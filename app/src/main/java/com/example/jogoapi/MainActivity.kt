@@ -1,4 +1,4 @@
-package com.example.dotaapi
+package com.example.jogoapi
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -7,9 +7,9 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import com.example.dotaapi.ui.theme.DotaAPITheme
-import com.example.dotaapi.ui.views.JogosScreen
-import com.example.dotaapi.ui.views.TelaInicial
+import com.example.jogoapi.ui.theme.DotaAPITheme
+import com.example.jogoapi.ui.views.JogosScreen
+import com.example.jogoapi.ui.views.TelaInicial
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

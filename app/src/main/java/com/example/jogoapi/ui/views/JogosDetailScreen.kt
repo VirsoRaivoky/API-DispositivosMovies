@@ -1,4 +1,4 @@
-package com.example.dotaapi.ui.views
+package com.example.jogoapi.ui.views
 
 import androidx.activity.compose.BackHandler
 import androidx.compose.foundation.BorderStroke
@@ -27,8 +27,8 @@ import androidx.navigation.NavController
 import coil.compose.AsyncImage
 import coil.compose.rememberImagePainter
 import coil.request.ImageRequest
-import com.example.dotaapi.R
-import com.example.dotaapi.viewmodel.JogosViewModel
+import com.example.jogoapi.R
+import com.example.jogoapi.viewmodel.JogosViewModel
 
 @Composable
 fun JogosDetailScreen(

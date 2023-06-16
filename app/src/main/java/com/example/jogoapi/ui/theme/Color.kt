@@ -1,4 +1,4 @@
-package com.example.dotaapi.ui.theme
+package com.example.jogoapi.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

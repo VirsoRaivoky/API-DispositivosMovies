@@ -1,4 +1,4 @@
-package com.example.dotaapi.ui.views
+package com.example.jogoapi.ui.views
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
@@ -7,7 +7,7 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.dotaapi.viewmodel.JogosViewModel
+import com.example.jogoapi.viewmodel.JogosViewModel
 
 @Composable
 fun TelaInicial(

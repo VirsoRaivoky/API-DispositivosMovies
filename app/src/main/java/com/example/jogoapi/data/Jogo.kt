@@ -1,4 +1,4 @@
-package com.example.dotaapi.data
+package com.example.jogoapi.data
 
 import com.squareup.moshi.Json
 

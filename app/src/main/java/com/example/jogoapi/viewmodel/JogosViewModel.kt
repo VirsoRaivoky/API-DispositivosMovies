@@ -1,12 +1,12 @@
-package com.example.dotaapi.viewmodel
+package com.example.jogoapi.viewmodel
 
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import androidx.navigation.NavController
-import com.example.dotaapi.data.Jogo
-import com.example.dotaapi.network.JogoApi
-import com.example.dotaapi.ui.views.JogosDetailScreen
+import com.example.jogoapi.data.Jogo
+import com.example.jogoapi.network.JogoApi
+import com.example.jogoapi.ui.views.JogosDetailScreen
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow

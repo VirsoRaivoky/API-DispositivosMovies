@@ -1,6 +1,6 @@
-package com.example.dotaapi.network
+package com.example.jogoapi.network
 
-import com.example.dotaapi.data.Jogo
+import com.example.jogoapi.data.Jogo
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
 import retrofit2.Retrofit

@@ -1,4 +1,4 @@
-package com.example.dotaapi.viewmodel
+package com.example.jogoapi.viewmodel
 
 data class JogoDetailScreenUiState(
     val jogoName: String = "",

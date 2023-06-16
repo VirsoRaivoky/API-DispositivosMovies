@@ -1,6 +1,6 @@
-package com.example.dotaapi.viewmodel
+package com.example.jogoapi.viewmodel
 
-import com.example.dotaapi.data.Jogo
+import com.example.jogoapi.data.Jogo
 
 sealed interface JogosUiState {
 

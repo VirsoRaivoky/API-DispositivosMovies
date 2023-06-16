@@ -1,4 +1,4 @@
-package com.example.dotaapi
+package com.example.jogoapi
 
 import org.junit.Test
 
